@@ -1,14 +1,18 @@
 modLoader="javafml"
 loaderVersion="[37,)"
-license="Academic Free License v3.0"
+license="All Rights Reserved"
 
 [[mods]]
 modId="moreapples"
-version="1.0.0"
+version="0.1.1"
 displayName="MoreApples"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Ash, MCreator"
+credits="me i did this"
+displayURL="https://twitter.com/DiabloDevTwitch"
+logoFile="logo.png"
+authors="Diablodesu"
+description='''
+Adds more apples to the game
+'''
 
 [[dependencies.moreapples]]
     modId="minecraft"

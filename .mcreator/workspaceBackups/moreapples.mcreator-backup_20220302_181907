@@ -231,13 +231,11 @@
     "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
-    "modPicture": "logo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.17.1",
-    "credits": "me i did this",
     "modElementsPackage": "net.mcreator.moreapples",
     "lockBaseModFiles": false
   },
