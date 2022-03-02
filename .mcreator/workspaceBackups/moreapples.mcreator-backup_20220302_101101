@@ -1,0 +1,161 @@
+{
+  "mod_elements": [
+    {
+      "name": "CopperApple",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_apple",
+      "path": "~/MA Item Registry"
+    },
+    {
+      "name": "CopperAppleRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "CoalAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MA Item Registry"
+    },
+    {
+      "name": "CoalApple",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_apple",
+      "path": "~/MA Item Registry"
+    },
+    {
+      "name": "CoalAppleRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "RedstoneApple",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_apple",
+      "path": "~/MA Item Registry"
+    },
+    {
+      "name": "RedstoneAppleRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "IronApple",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_apple",
+      "path": "~/MA Item Registry"
+    },
+    {
+      "name": "IronAppleRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "EmeraldAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MA Item Registry"
+    },
+    {
+      "name": "EmeraldApple",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_apple",
+      "path": "~/MA Item Registry"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moreapples.iron_apple": "Iron Apple",
+      "item.moreapples.coal_apple": "Coal Apple",
+      "item.moreapples.emerald_apple": "Emerald Apple",
+      "item.moreapples.copper_apple": "Copper Apple",
+      "item.moreapples.redstone_apple": "Redstone Apple"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "MA Item Registry",
+        "children": []
+      },
+      {
+        "name": "MA Crafting Recipes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "moreapples",
+    "modName": "MoreApples",
+    "version": "1.0.0",
+    "author": "Ash, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.moreapples",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
