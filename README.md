@@ -5,9 +5,9 @@
 
 Apple Types:
 
-Copper Apple
-Coal Apple
-Iron Apple
-Emerald Apple
-Diamond Apple
-Netherite Apple
+Copper Apple <br />
+Coal Apple <br />
+Iron Apple <br />
+Emerald Apple <br />
+Diamond Apple <br />
+Netherite Apple <br />
