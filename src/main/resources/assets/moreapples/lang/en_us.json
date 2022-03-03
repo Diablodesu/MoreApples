@@ -1,9 +1,22 @@
 {
   "item.moreapples.iron_apple": "Iron Apple",
-  "item.moreapples.coal_apple": "Coal Apple",
   "item.moreapples.emerald_apple": "Emerald Apple",
+  "block.moreapples.apple_ore": "Apple Ore",
   "item.moreapples.netherite_apple": "Netherite Apple",
-  "item.moreapples.copper_apple": "Copper Apple",
+  "item.moreapples.apple_shovel": "Apple Shovel",
+  "item.moreapples.apple_armor_boots": "Apple Boots",
   "item.moreapples.diamond_apple": "Diamond Apple",
-  "item.moreapples.redstone_apple": "Redstone Apple"
+  "item.moreapples.redstone_apple": "Redstone Apple",
+  "item.moreapples.apple_armor_helmet": "Apple Helmet",
+  "item.moreapples.apple_armor_chestplate": "Apple Chestplate",
+  "item.moreapples.apple_pickaxe": "Apple Pickaxe",
+  "item.moreapples.coal_apple": "Coal Apple",
+  "item.moreapples.apple_ingot": "Apple Ingot",
+  "item.moreapples.bucket_of_fluid_apple_bucket": "Bucket Of Fluid Apple",
+  "item.moreapples.apple_sword": "Apple Sword",
+  "item.moreapples.apple_armor_leggings": "Apple Leggings",
+  "item.moreapples.apple_axe": "Apple Axe",
+  "item.moreapples.copper_apple": "Copper Apple",
+  "block.moreapples.bucket_of_fluid_apple": "Fluid Apple",
+  "fluid.moreapples.bucket_of_fluid_apple": "Fluid Apple"
 }

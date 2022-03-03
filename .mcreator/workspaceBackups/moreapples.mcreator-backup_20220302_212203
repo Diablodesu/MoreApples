@@ -1,0 +1,332 @@
+{
+  "mod_elements": [
+    {
+      "name": "CopperApple",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_apple",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "CopperAppleRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "CoalAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "CoalApple",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_apple",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "CoalAppleRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coal_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "RedstoneApple",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_apple",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "RedstoneAppleRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "IronApple",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_apple",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "IronAppleRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "EmeraldAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "EmeraldApple",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_apple",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "DiamondAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "DiamondApple",
+      "type": "food",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_apple",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "NetheriteAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "NetheriteApple",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_apple",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "EmeraldAppleRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "DiamondAppleRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "NetheriteAppleRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_apple_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "AppleOre",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apple_ore",
+      "path": "~/MA Blocks"
+    },
+    {
+      "name": "AppleIngot",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apple_ingot",
+      "path": "~/MA Other Items"
+    },
+    {
+      "name": "AppleSword",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apple_sword",
+      "path": "~/MA Weapons"
+    },
+    {
+      "name": "AppleSwordRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apple_sword_recipe",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "AppleToAppleIngot",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apple_to_apple_ingot",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "AppleArmor",
+      "type": "armor",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apple_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/MA Armor"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moreapples.iron_apple": "Iron Apple",
+      "item.moreapples.emerald_apple": "Emerald Apple",
+      "block.moreapples.apple_ore": "Apple Ore",
+      "item.moreapples.netherite_apple": "Netherite Apple",
+      "item.moreapples.apple_armor_boots": "Apple Boots",
+      "item.moreapples.diamond_apple": "Diamond Apple",
+      "item.moreapples.redstone_apple": "Redstone Apple",
+      "item.moreapples.apple_armor_helmet": "Apple Helmet",
+      "item.moreapples.apple_armor_chestplate": "Apple Chestplate",
+      "item.moreapples.coal_apple": "Coal Apple",
+      "item.moreapples.apple_ingot": "Apple Ingot",
+      "item.moreapples.apple_sword": "Apple Sword",
+      "item.moreapples.apple_armor_leggings": "Apple Leggings",
+      "item.moreapples.copper_apple": "Copper Apple"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "MA Food Registry",
+        "children": []
+      },
+      {
+        "name": "MA Crafting Recipes",
+        "children": []
+      },
+      {
+        "name": "Procedures",
+        "children": []
+      },
+      {
+        "name": "MA Weapons",
+        "children": []
+      },
+      {
+        "name": "MA Other Items",
+        "children": []
+      },
+      {
+        "name": "MA Blocks",
+        "children": []
+      },
+      {
+        "name": "MA Armor",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "moreapples",
+    "modName": "MoreApples",
+    "version": "0.1.1",
+    "description": "Adds more apples to the game",
+    "author": "Diablodesu",
+    "websiteURL": "https://twitter.com/DiabloDevTwitch",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "me i did this",
+    "modElementsPackage": "net.mcreator.moreapples",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
