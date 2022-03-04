@@ -14,6 +14,7 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.moreapples.item.RedstoneAppleItem;
+import net.mcreator.moreapples.item.RawCopperEdibleItem;
 import net.mcreator.moreapples.item.NetheriteAppleItem;
 import net.mcreator.moreapples.item.IronAppleItem;
 import net.mcreator.moreapples.item.EmeraldAppleItem;
@@ -52,6 +53,7 @@ public class MoreapplesModItems {
 	public static final Item BUCKET_OF_FLUID_APPLE_BUCKET = register(new BucketOfFluidAppleItem());
 	public static final Item APPLE_AXE = register(new AppleAxeItem());
 	public static final Item APPLE_SHOVEL = register(new AppleShovelItem());
+	public static final Item RAW_COPPER_EDIBLE = register(new RawCopperEdibleItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
