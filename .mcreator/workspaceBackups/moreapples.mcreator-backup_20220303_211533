@@ -319,6 +319,42 @@
       "locked_code": false,
       "registry_name": "apple_axe",
       "path": "~/MA Tools"
+    },
+    {
+      "name": "AppleShovel",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "apple_shovel",
+      "path": "~/MA Tools"
+    },
+    {
+      "name": "EdibleCopperSmelt",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "edible_copper_smelt",
+      "path": "~/MA Crafting Recipes"
+    },
+    {
+      "name": "RawCopperEdible",
+      "type": "food",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_copper_edible",
+      "path": "~/MA Food Registry"
+    },
+    {
+      "name": "EdibleRawCopperRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "edible_raw_copper_recipe",
+      "path": "~/MA Crafting Recipes"
     }
   ],
   "variable_elements": [],
@@ -329,8 +365,10 @@
       "item.moreapples.emerald_apple": "Emerald Apple",
       "block.moreapples.apple_ore": "Apple Ore",
       "item.moreapples.netherite_apple": "Netherite Apple",
+      "item.moreapples.apple_shovel": "Apple Shovel",
       "item.moreapples.apple_armor_boots": "Apple Boots",
       "item.moreapples.diamond_apple": "Diamond Apple",
+      "item.moreapples.raw_copper_edible": "Edible Raw Copper",
       "item.moreapples.redstone_apple": "Redstone Apple",
       "item.moreapples.apple_armor_helmet": "Apple Helmet",
       "item.moreapples.apple_armor_chestplate": "Apple Chestplate",
@@ -382,7 +420,7 @@
   "workspaceSettings": {
     "modid": "moreapples",
     "modName": "MoreApples",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "description": "Adds more apples to the game",
     "author": "Diablodesu",
     "websiteURL": "https://twitter.com/DiabloDevTwitch",
