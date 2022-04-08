@@ -1,6 +1,7 @@
 
 package net.mcreator.moreapples.block;
 
+import net.minecraft.world.level.material.MaterialColor;
 import net.minecraft.world.level.material.Material;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.BlockBehaviour;
@@ -12,7 +13,7 @@ import net.mcreator.moreapples.init.MoreapplesModFluids;
 
 public class BucketOfFluidAppleBlock extends LiquidBlock {
 	public BucketOfFluidAppleBlock() {
-		super(MoreapplesModFluids.BUCKET_OF_FLUID_APPLE, BlockBehaviour.Properties.of(Material.WATER).strength(100f)
+		super(MoreapplesModFluids.BUCKET_OF_FLUID_APPLE, BlockBehaviour.Properties.of(Material.WATER, MaterialColor.COLOR_RED).strength(100f)
 
 		);
 		setRegistryName("bucket_of_fluid_apple");

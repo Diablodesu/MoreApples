@@ -39,7 +39,7 @@
     "tickRate": 10,
     "flammability": 0,
     "fireSpreadSpeed": 0,
-    "colorOnMap": "DEFAULT",
+    "colorOnMap": "RED",
     "frequencyOnChunks": 5,
     "spawnWorldTypes": [
       "Surface"
